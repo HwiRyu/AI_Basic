@@ -99,3 +99,5 @@ print(NN.forward_propagation(X))
 end = time.time()
 
 print(end - strat)
+
+print('hello')
